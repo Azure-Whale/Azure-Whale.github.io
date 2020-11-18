@@ -4,9 +4,9 @@
 
 
 
-[Time Series Forecasting Model](https://github.com/Roshni96/Rice_price_forecast)
+[Ads Fraudulent Click Traffic Detection](https://github.com/Azure-Whale/Ads-Fraudulent-Click-Traffic-Detection-)
 
-<h5>Model that correlates the price of rice with climate and economic factors in India.</h5>
+<h5>Prevent click fraud for app developers by measuring and detecting user’s click across their portfolio, and flag IP addresses who produce lots of clicks, but never end up installing apps.</h5>
 
 
 ---
