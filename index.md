@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Quantifying Gender Bias in 20 Languages Bias](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
