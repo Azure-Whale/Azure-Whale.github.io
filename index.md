@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Ads Fraudulent Click Traffic Detection](https://github.com/Azure-Whale/Ads-Fraudulent-Click-Traffic-Detection-)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
