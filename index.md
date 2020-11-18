@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Ads Fraudulent Click Traffic Detection](https://github.com/Azure-Whale/Ads-Fraudulent-Click-Traffic-Detection-)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
