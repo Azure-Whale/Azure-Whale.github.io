@@ -1,8 +1,8 @@
 title: Kezheng Xiang # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- <br> <h4> About me <h4> <br>
- <br>I love what programming can do with data and want to apply my software development skills to learn interesting things from it. <br>
+  <h3> About me </h3> <br>
+ <h4><br>I love what programming can do with data and want to apply my software development skills to learn interesting things from it. <br>
   <br>
   I am a Data-Focused Software Engineer. 
   <br>
@@ -11,7 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Research Assistant,Fordham University(Sep 2019-Present)
   <br>
   Data Engineer Intern,Hwadee Information Technology Corp.(May 2016-Aug 2016)
-  <br><br>
+  <br></h4><br>
   <a href="https://www.linkedin.com/feed/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
