@@ -30,7 +30,7 @@
 
 
 ---
-[Trivia](https:/https://github.com/Azure-Whale/trivia_api/blob/main/README.md)
+[Trivia](https://github.com/Azure-Whale/trivia_api)
 <h5>Built a Trivia API that allows users to search,add and modify trivia questions as well as answers.</h5>
 
 
