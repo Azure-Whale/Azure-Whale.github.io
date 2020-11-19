@@ -14,19 +14,13 @@
 <h5>Virtual door application that records live video and authenticates faces using Amazon Web Services.</h5>
 
 ---
-[Dining Concierge Chatbot](https://github.com/Roshni96/DiningChatbot)
-<h5> A serverless, microservice-driven web application that sends you restaurant suggestions given a set of preferences
- that you provide the chatbot with through conversation using Amazon Web Services.</h5>
+[Quantifying Gender Bias for-20-languages](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages)
+<h5> Applied multiple word embeddings such as Fasttext, Word2vec and Glove to quantify gender bias existing in occupations over 100+ countries(20+ languages) through 20 years from now. Quantified bias would be used to study the potential bias and undiscovered stereotypes..</h5>
 
 
 ---
-[Airbnb Listings Financial Performance](https://github.com/Roshni96/Airbnb_host_revenue_analysis)
-<h5>Maximixe profits for hosts by applying Natural Language Processing tools on Airbnb listings.</h5>
-
-
----
-[NYC Taxi Tips Prediction](https://github.com/Roshni96/NYC_Taxi_streaming)
-<h5>Designed streaming pipeline for taxi tips prediction using Spark and Kafka and visualized it on a map.</h5>
+[Portfolio Management Tool](https://github.com/Azure-Whale/Portfolio-management-tools)
+<h5>This tool enables user to upload their portfolios and the system would do rest of the analysis jobs and export needed files user may need.</h5>
 
 
 ---
