@@ -14,23 +14,23 @@
 <h5>Virtual door application that records live video and authenticates faces using Amazon Web Services.</h5>
 
 ---
-[Quantifying Gender Bias for-20-languages](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages)
+[Quantifying Gender Bias in 20 languages](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages)
 <h5> Applied multiple word embeddings such as Fasttext, Word2vec and Glove to quantify gender bias existing in occupations over 100+ countries(20+ languages) through 20 years from now. Quantified bias would be used to study the potential bias and undiscovered stereotypes..</h5>
 
 
 ---
-[Portfolio Management Tool](https://github.com/Azure-Whale/Portfolio-management-tools)
+[Portfolio Analysis Tools](https://github.com/Azure-Whale/Portfolio-management-tools)
 <h5>This tool enables user to upload their portfolios and the system would do rest of the analysis jobs and export needed files user may need.</h5>
 
 
 ---
-[Fyuur](https://github.com/Roshni96/fyyur)
+[Fyuur](https://github.com/Azure-Whale/fyyur)
 <h5>A concert booking website that facilitates the discovery and bookings of
  shows between local performing artists and venues in Flask.</h5>
 
 
 ---
-[Trivia](https://github.com/Roshni96/Trivia_app)
+[Trivia](https:/https://github.com/Azure-Whale/trivia_api/blob/main/README.md)
 <h5>Built a Trivia API that allows users to search,add and modify trivia questions as well as answers.</h5>
 
 
