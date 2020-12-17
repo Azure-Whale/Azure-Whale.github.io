@@ -10,8 +10,8 @@
 
 
 ---
-[SmartDoor](https://github.com/Roshni96/SmartDoor)
-<h5>Virtual door application that records live video and authenticates faces using Amazon Web Services.</h5>
+[Covid-19 Side-effect distribution Analysis on 200GB+ Tweets](https://github.com/Roshni96/SmartDoorhttps://github.com/Azure-Whale/Covid-19-related-Tweets-Analysis)
+<h5>Our study aims to learn if there is any potential undiscovered symptoms and their distribution on geographical level that people would like to share on their social media.</h5>
 
 ---
 [Quantifying Gender Bias in 20 languages](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages)
