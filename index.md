@@ -10,7 +10,7 @@
 
 
 ---
-[Covid-19 Side-effect distribution Analysis on 200GB+ Tweets](https://github.com/Roshni96/SmartDoorhttps://github.com/Azure-Whale/Covid-19-related-Tweets-Analysis)
+[Covid-19 Side-effect distribution Analysis on 200GB+ Tweets](https://github.com/Azure-Whale/Covid-19-related-Tweets-Analysis)
 <h5>Our study aims to learn if there is any potential undiscovered symptoms and their distribution on geographical level that people would like to share on their social media.</h5>
 
 ---
