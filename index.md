@@ -12,7 +12,8 @@
 [Fyuur -- Musical venue and Srtist booking site -- Software Engineering](https://github.com/Azure-Whale/fyyur)
 <h5>A concert booking website that facilitates the discovery and bookings of
  shows between local performing artists and venues in Flask.</h5>
- 
+
+---
  [E-commerce Spider](https://github.com/Azure-Whale/Wrok-Sample-1----Spider)
  <h5>This is a small code sample of my most recent work. It is just a reference of how I write my code in working environment. The spider will crawl all the items on sephora automatically through selenium and scrapy, then deliver the data to the AWS RDS and DynamoDB.</h5>
 
