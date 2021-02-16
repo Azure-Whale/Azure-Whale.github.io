@@ -13,6 +13,9 @@
 <h5>A concert booking website that facilitates the discovery and bookings of
  shows between local performing artists and venues in Flask.</h5>
  
+ [E-commerce Spider](https://github.com/Azure-Whale/Wrok-Sample-1----Spider)
+ <h5>This is a small code sample of my most recent work. It is just a reference of how I write my code in working environment. The spider will crawl all the items on sephora automatically through selenium and scrapy, then deliver the data to the AWS RDS and DynamoDB.</h5>
+
 ---
 [Trivia -- RESTful APIs -- Software Engineering](https://github.com/Azure-Whale/trivia_api)
 <h5>Built a Trivia API that allows users to search,add and modify trivia questions as well as answers.</h5>
